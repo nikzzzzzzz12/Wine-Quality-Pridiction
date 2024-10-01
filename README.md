@@ -16,7 +16,7 @@ This project involves predicting the quality of wine using machine learning mode
 To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mahima05/Wine-quality-prediction.git
+   git clone https://github.com/nikzzzzzzz12/Wine-quality-prediction.git
    ```
 2. **Navigate to the project directory:**
    ```bash
