@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Wine-quality-prediction
+   cd Wine-Quality-Pridiction
    ```
 3. **Install the required libraries:**
    - Install the necessary Python packages using pip.
